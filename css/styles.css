@@ -83,12 +83,10 @@ body{
     font-size: 27px;
 }
 .your_glass{
-    position: fixed;
     z-index: 90;
     position: absolute;
-    /*margin-top: 250px;*/
     left: 100%;
-    transform: translateX(-50%);
+    transform: translate(-50%, -50%);
     top: 50%;
 }
 
