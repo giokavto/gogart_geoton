@@ -1,0 +1,310 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    display: inline-block;
+}
+
+a:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
+body{
+    font-family: 'Mtavruli';
+}
+
+
+/*header*/
+.section1{
+    /*position: fixed;*/
+}
+.color_line_nav{
+    margin-top: 70px;
+    margin-left: 184px;
+}
+
+.bg_1{
+    background-color: #FFFFFF;
+    height: 100vh;
+    /*position: fixed;
+    z-index: 90;*/
+}
+
+.logo{
+    width: 100px;
+    margin: 30px 60px 0 60px;
+}
+
+.oreng_line{
+    background-color: #F99130;
+    width: 30px;
+    height: 2px;
+    border-top-left-radius: 2px;
+    margin-bottom: 10px;
+}
+.blue_line{
+    background-color: #292E42;
+    width: 30px;
+    height: 2px;
+    border-top-left-radius: 2px;
+}
+
+
+.bg_2{
+    background-color: #292E42;
+    height: 100vh;
+    width: 100%;
+    position: relative;
+}
+.your_glass_title{
+    display: flex;
+    color: #FFFFFF;
+    font-size: 18px;
+    background-color: #F99130;
+    padding: 20px 40px;
+    border-radius: 50px;
+}
+.title_glass{
+    margin-bottom: 15px;
+}
+.glass, .t-shirt{
+    color: #FFFFFF;
+    font-size: 27px;
+}
+.your_glass{
+    position: fixed;
+    z-index: 90;
+    position: absolute;
+    margin-top: 120px;
+    left: 100px;
+}
+
+.color_line_nav2 {
+    margin-top: 350px;
+    margin-left: -17px;
+    margin-bottom: 110px;
+}
+.social{
+}
+.social_ul{
+    display: flex;
+    margin-left: 35px;
+}
+.soc_img{
+    width: 20px;
+    height: 20px;
+    background-color: #686868;
+    border-radius: 50%;
+    border: 6px solid #686868;
+    margin-right: 10px;
+}
+.line{
+    height: 100vh;
+    width: 1px;
+    background-color: #000000;
+    margin-top: -72px;
+    position: absolute;
+}
+/*1_page*/
+.contact_gallery{
+    width: 215px;
+    margin-left: 895px;
+    margin-top: 30px;
+}
+
+.contact_gallery_img{
+    display: flex;
+    background-color: #F99130;
+    padding: 10px 125px 10px 20px; 
+    border-top-left-radius: 30px;
+    border-bottom-left-radius: 30px;
+}
+
+.img_gall_cont{
+    width: 20px;
+}
+
+.contact_img{
+    margin-right: 20px;
+}
+.sliders_first_page{
+    display: flex;
+    margin-top: 40px;
+    margin-left: 260px;
+}
+
+.slider_first_page2{
+    width: 230px;
+    height: 500px;
+    background-color: #FFFFFF;
+}
+.mr{
+    margin-right: 30px;
+}
+/* glass page*/
+.bg_3{
+    height: 100vh;
+    border-right: solid;
+    border-right-color: #292E42;
+}
+.line{
+    height: 100vh;
+    width: 1px;
+    background-color: #000000;
+    margin-top: -72px;
+    position: absolute;
+}
+.bg_glass{
+    background-color: #292E42;
+}
+.bg_glass_page{
+    background-color: #FFFFFF;
+}
+
+.glass_change_text{
+    display: flex;
+    margin-top: 80px;
+    margin-left: 530px;
+    border-left: solid;
+    border-left-color: #DFE3EF;
+    border-bottom: solid;
+    border-bottom-color: #DFE3EF;
+
+}
+.text_glasses{
+    display: flex;
+}
+.text_first{
+    font-size: 12px;
+    color: #000000;
+    font-family: 'Mtavruli Bold';
+    margin-right: 60px;
+}
+.text_second{
+    font-size: 12px;
+    color: #000000;
+    font-family: 'Mtavruli Bold';
+    margin-right: 140px;
+}
+.text_third{
+    font-size: 12px;
+    color: #000000;
+    font-family: 'Mtavruli Bold';
+}
+.glass_img{
+    margin-top: 45px;
+    margin-left: 10px;
+}
+.glass_img2{
+    width: 260px;
+}
+.glass_text2{
+    font-size: 12px;
+    color: #000000;
+    font-family: 'Mtavruli Bold';
+    margin-top: 40px;
+    margin-left: 270px;
+}
+.glasses_change3{
+    width: 75px;
+    margin-bottom: 40px;
+}
+.glasses_change{
+    background-color: #DFE3EF;
+    margin-left: 95px;
+    padding-top: 80px;
+}
+.glass_title{
+    padding-top: 40px;
+    margin-left: 25px
+}
+.boy{
+    font-family: 'Mtavruli Bold';
+    font-size: 18px;
+    color: #000000;
+    margin-bottom: 20px;
+    text-align: center;
+}
+.t-shirt_change{
+    background-color: #DFE3EF;
+    padding-top: 40px;
+    margin-left: 15px;
+}
+.pt-20{
+    padding-top: 20px;
+}
+.text_second_t-shirt{
+    font-size: 12px;
+    color: #000000;
+    font-family: 'Mtavruli Bold';
+    margin-right: 125px;
+}
+.t-shirt_text2{
+    font-size: 12px;
+    color: #000000;
+    font-family: 'Mtavruli Bold';
+    margin-top: 40px;
+    margin-left: 265px;
+}
+.t-shirt_gallery{
+    margin-left: 270px;
+    margin-bottom: 30px;
+}
+.title{
+    margin-bottom: 25px;
+    font-family: 'Mtavruli Bold';
+    font-size: 18px;
+    color: #000000;
+}
+.imges_gallery{
+    display: flex;
+    flex-wrap: wrap;
+}
+.img_gallery{
+    width: 250px;
+    height: 150px;
+    margin-right: 35px;
+}
+.img_gallery:last-child{
+    margin-right: 0;
+}
+.img_gl{
+    width: 100%;
+    height: 100%;
+}
+.logo_chat{
+    display: flex;
+}
+.logo_g{
+    width: 45px;
+    margin-right: 40px;
+}
+.logo_g_img{
+    width: 100%;
+}
+.text_logo2{
+    font-size: 18px;
+    color: #000000;
+    margin-top: 20px;
+}
+.infut{
+    width: 420px;
+}
+.chet{
+    margin-top: 400px;
+    margin-left: 400px;
+}
+
+
+
+
+
+
