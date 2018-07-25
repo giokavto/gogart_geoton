@@ -27,10 +27,11 @@ body{
     /*position: fixed;*/
 }
 .color_line_nav{
-    margin-top: 70px;
+    /*margin-top: 70px;*/
     /*margin-left: 184px;*/
     position: absolute;
     right: 0;
+    top: 20%;
 }
 
 .bg_1{
@@ -43,7 +44,12 @@ body{
 
 .logo{
     width: 100px;
-    margin: 30px 60px 0 60px;
+    /*margin: 30px 60px 0 60px;*/
+    margin-top: 30px;
+    /*margin-left: 25%;*/
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
 }
 
 .oreng_line{
@@ -185,8 +191,10 @@ body{
 
 .glass_change_text{
     display: flex;
-    margin-top: 160px;
-    margin-left: 530px;
+    margin-top: 140px;
+    /*margin-left: 530px;*/
+    position: absolute;
+    right: 5%;
     border-left: solid;
     border-left-color: #DFE3EF;
     border-bottom: solid;
@@ -283,7 +291,7 @@ body{
     flex-wrap: wrap;
 }
 .img_gallery{
-    width: 200px;
+    width: 250px;
     height: 150px;
     margin-right: 35px;
 }
