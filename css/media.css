@@ -206,7 +206,62 @@
  .logo_g{
     margin-right: 25px;
  }
- 
+ /*menu*/
+ .bg_1.active {
+    width: 70px;
+ }
+ .logo_img.active {
+    display: none;
+ }
+ .logo_img2.active {
+    display: none;
+}
+.color_line_nav.active{
+  top: 20%;
+}
+.desk_dn.active {
+    display: none;
+}
+.your_glass_title.active{
+    display: block;
+}
+.your_glass.active{
+    left: 100%;
+}
+.color_line_nav2.active{
+    top: 80%;
+}
+.social_ul.active{
+    display: flex;
+}
+.soc_img.active{
+  width: 30px;
+  height: 30px;
+}
+.fas{
+    background: #fff;
+    color: #ff5252;
+    text-align: center;
+    padding: 3px;
+    border-radius: 5px;
+}
+
+.fa-th.active{
+    display: none;
+}
+.fa-times{
+    display: none;
+}
+.fa-times.active{
+    display: block;
+}
+.fas{
+    background: #fff;
+    color: #ff5252;
+    text-align: center;
+    padding: 3px;
+    border-radius: 5px;
+}
 
 
 
