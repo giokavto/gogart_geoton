@@ -195,9 +195,11 @@
   display: none;
  }
  .img_gallery {
-    width: 200px;
+    width: 180px;
  }
- 
+ .gallery {
+    right: 0px;
+ }
  
 
 
