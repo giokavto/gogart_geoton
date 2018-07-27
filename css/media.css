@@ -1,0 +1,194 @@
+/* Tablet */
+@media only screen and (max-width: 991px) {
+  .tablet_dn{
+    display: none;
+  }
+  .sliders_first_page{
+    right: 10%;
+  }
+  .glass_change_text{
+    right: 0;
+  }
+  .your_glass{
+    left: 60%;
+  }
+  .text_second{
+    margin-right: 80px;
+  }
+  .glass_text2{
+    margin-left: 190px;
+  }
+  .glasses_change{
+    margin-left: 60px;
+  }
+  .bg_1{
+    width: 200px;
+  }
+  .your_glass_title{
+    padding: 15px 25px;
+  }
+  .text_second_t-shirt{
+    margin-right: 90px;
+  }
+  .t-shirt_text2{
+    margin-left: 210px;
+  }
+  .gallery{
+    right: 1%;
+  }
+  .mr_0{
+    margin-right: 0;
+  }
+  .img_gallery{
+    width: 220px;
+  }
+  .infut{
+    width: 350px;
+  }
+  .chet{
+    right: 2%;
+  }
+  .glass_change_text{
+    margin-top: 280px;
+  }
+  .sliders_first_page{
+    margin-top: 200px;
+  }
+
+}
+
+/* Mobile */
+@media only screen and (max-width: 576px) {
+  .bg_1{
+    width: 70px;
+  }
+  .logo_img{
+    display: none;
+  }
+  .logo_img2{
+    display: block;
+    height: 80px;
+  }
+  .logo{
+    width: 45px;
+  }
+  .color_line_nav{
+    top: 25%;
+  } 
+  .your_glass_title{
+    display: none;
+  }
+  .desk_dn{
+    display: block;
+  }
+  .your_glass{
+    left: 100%;
+  }
+  .color_line_nav2{
+    top: 70%;
+  }
+  .social_ul{
+    display: block;
+  }
+  .sliders_first_page{
+    margin-top: 100px;
+    right: 0;
+  }
+  .slider_first_page2{
+    width: 180px;
+    height: 380px;
+  }
+  .glass_change_text{
+    display: block;
+  }
+  .glasses_change{
+    display: flex;
+  }
+  .glasses_change{
+    padding-top: 5px;
+  }
+  .glasses_change3{
+    margin-bottom: 0px;
+    width: 65px;
+  }
+  .glass_text2 {
+    margin-left: 170px;
+    margin-bottom: 10px;
+  }
+  .glass_change_text {
+    margin-top: 45px;
+  }
+  .glass_img2 {
+    width: 200px;
+  }
+  .glass_change_text {
+    margin-top: 100px;
+  }
+  .glass_title {
+    padding-top: 40px;
+    margin-left: 10px;
+  }
+  .text_first{
+    margin-right: 20px;
+  }
+  .text_second {
+    margin-right: 25px;
+  }
+  .glass_img {
+    margin-top: 30px;
+    margin-left: 15px;
+  }
+  .glass_text2 {
+    margin-left: 110px;
+  }
+  .glasses_change2{
+    padding-right: 10px;
+  }
+  .glasses_change {
+    padding-top: 5px;
+    margin-left: 0px;
+ }
+ .mob_padd{
+    padding-left: 5px;
+    padding-right: 12px;
+ }
+ .df{
+  display: flex;
+ }
+ .pt-20 {
+    padding-top: 0px;
+ }
+ .boy{
+  margin-bottom: 10px;
+  text-align: left;
+  padding-left: 10%;
+  display: flex;
+ }
+ .t-shirt_change{
+  padding-top: 5px;
+  margin-left: 0px;
+ }
+ .dn_gr{
+    display: block;   
+ }
+ .t-shirt_text2 {
+    margin-left: 160px;
+ }
+ .text_second_t-shirt {
+    margin-right: 50px;
+ }
+ .t-shirt_text2 {
+    margin-left: 140px;
+    margin-bottom: 10px;
+ }
+ .mob_pl{
+  margin-left: 3px;
+ }
+
+ 
+
+
+
+
+}
+

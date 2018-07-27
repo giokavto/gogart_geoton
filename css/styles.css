@@ -51,6 +51,9 @@ body{
     left: 50%;
     transform: translateX(-50%);
 }
+.logo_img2{
+    display: none;
+}
 
 .oreng_line{
     background-color: #F99130;
@@ -94,6 +97,18 @@ body{
     left: 100%;
     transform: translate(-50%, -50%);
     top: 50%;
+}
+.desk_dn{
+    display: none;
+}
+.color_line_mob{
+    width: 35px;
+    height: 10px;
+    background-color: #F99130;
+    border-radius: 50%;
+}
+.pt_color{
+    margin-bottom: 5px;
 }
 
 .color_line_nav2 {
@@ -321,16 +336,30 @@ body{
     width: 420px;
 }
 .chet{
-    margin-top: 400px;
-    margin-left: 400px;
+    position: absolute;
+    top: 70%;
+    right: 20%;
 }
 .gallery{
     margin-top: 100px;
     position: absolute;
     right: 5%;
 }
-
-
+.bg_1{
+    width: 230px;
+    position: fixed;
+}
+.bg_2, .bg_glass_page{
+    width: 100%;
+    height: 100vh;
+}
+.dn_gr{
+    font-family: 'Mtavruli Bold';
+    font-size: 18px;
+    color: #000000;
+    margin-right: 10px;
+    display: none;    
+}
 
 
 
