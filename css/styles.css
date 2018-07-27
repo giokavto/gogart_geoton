@@ -83,6 +83,7 @@ body{
     background-color: #F99130;
     padding: 20px 40px;
     border-radius: 50px;
+    white-space: nowrap;
 }
 .title_glass{
     margin-bottom: 15px;
@@ -361,5 +362,9 @@ body{
     display: none;    
 }
 
+
+
+
+}
 
 

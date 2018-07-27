@@ -201,17 +201,17 @@
     right: 0px;
  }
  .infut{
-    width: 250px;
+    width: 210px;
   }
  .logo_g{
     margin-right: 25px;
  }
  /*menu*/
  .bg_1.active {
-    width: 70px;
+    width: 200px;
  }
  .logo_img.active {
-    display: none;
+    display: block;
  }
  .logo_img2.active {
     display: none;
@@ -238,30 +238,35 @@
   width: 30px;
   height: 30px;
 }
-.fas{
-    background: #fff;
-    color: #ff5252;
-    text-align: center;
-    padding: 3px;
-    border-radius: 5px;
-}
 
 .fa-th.active{
     display: none;
 }
 .fa-times{
     display: none;
+    position: absolute;
+    top: 40%;
+    left: 100%;
 }
 .fa-times.active{
     display: block;
 }
 .fas{
     background: #fff;
-    color: #ff5252;
+    color: #F99130;
     text-align: center;
     padding: 3px;
     border-radius: 5px;
 }
+.your_glass_title{
+  font-size: 15px;
+}
+.glass, .t-shirt{
+  font-size: 22px;
+}
+
+
+
 
 
 
