@@ -191,7 +191,13 @@
  .mob_p{
   margin-right: 15px;
  }
-
+ .mob_dn{
+  display: none;
+ }
+ .img_gallery {
+    width: 200px;
+ }
+ 
  
 
 
